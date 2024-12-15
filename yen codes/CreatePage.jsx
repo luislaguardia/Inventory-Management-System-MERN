@@ -1,3 +1,5 @@
+// kay yen, orig (outdated)
+
 import { Box, Container, Heading, useColorModeValue, VStack, Button, Input, useToast } from '@chakra-ui/react';
 import React, { useState } from 'react';
 import { useProductStore } from '../store/product';
